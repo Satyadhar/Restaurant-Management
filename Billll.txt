@@ -1,0 +1,10 @@
+Cost of Drinks= 65.0
+Cost of Fries= 140.0
+Cost of Noodles= 90.0
+Cost of Soup= 140.0
+Cost of Burger= 260.0
+Cost of Sandwitch= 300.0
+Cost of Meal= 695.0
+Sevice Tax= 7.02020202020202
+Pay Tax= 139.0
+Total= 841.0202020202021

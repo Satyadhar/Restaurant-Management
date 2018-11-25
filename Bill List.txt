@@ -1,0 +1,145 @@
+Cost of Drinks= 1950.0
+Cost of Fries= 140.0
+Cost of Noodles= 180.0
+Cost of Soup= 420.0
+Cost of Burger= 2600.0
+Cost of Sandwitch= 6000.0
+
+Cost of Meal= 5290.0
+Sevice Tax= 53.43434343434343
+Pay Tax= 1058.0
+Total= 6401.434343434344
+
+
+
+Cost of Drinks= 195.0
+Cost of Fries= 280.0
+Cost of Noodles= 90.0
+Cost of Soup= 280.0
+Cost of Burger= 780.0
+Cost of Sandwitch= 300.0
+
+Cost of Meal= 1625.0
+Sevice Tax= 16.414141414141415
+Pay Tax= 325.0
+Total= 1966.4141414141413
+
+
+
+Cost of Drinks= 65.0
+Cost of Fries= 140.0
+Cost of Noodles= 90.0
+Cost of Soup= 140.0
+Cost of Burger= 260.0
+Cost of Sandwitch= 300.0
+Cost of Meal= 695.0
+Sevice Tax= 7.02020202020202
+Pay Tax= 139.0
+Total= 841.0202020202021
+
+
+
+Cost of Drinks= 65.0
+Cost of Fries= 140.0
+Cost of Noodles= 90.0
+Cost of Soup= 140.0
+Cost of Burger= 260.0
+Cost of Sandwitch= 300.0
+Cost of Meal= 695.0
+Sevice Tax= 7.02020202020202
+Pay Tax= 139.0
+Total= 841.0202020202021
+
+
+
+Cost of Drinks= 0
+Cost of Fries= 0
+Cost of Noodles= 90.0
+Cost of Soup= 0
+Cost of Burger= 0
+Cost of Sandwitch= 0
+Cost of Meal= 90.0
+Sevice Tax= 0.9090909090909091
+Pay Tax= 18.0
+Total= 108.9090909090909
+
+
+
+Cost of Drinks= 0
+Cost of Fries= 0
+Cost of Noodles= 90.0
+Cost of Soup= 0
+Cost of Burger= 0
+Cost of Sandwitch= 0
+Cost of Meal= 90.0
+Sevice Tax= 0.9090909090909091
+Pay Tax= 18.0
+Total= 108.9090909090909
+
+
+
+Cost of Drinks= 65.0
+Cost of Fries= 280.0
+Cost of Noodles= 0
+Cost of Soup= 140.0
+Cost of Burger= 260.0
+Cost of Sandwitch= 0
+Cost of Meal= 745.0
+Sevice Tax= 7.525252525252525
+Pay Tax= 149.0
+Total= 901.5252525252525
+
+
+
+Cost of Drinks= 0
+Cost of Fries= 0
+Cost of Noodles= 90.0
+Cost of Soup= 0
+Cost of Burger= 0
+Cost of Sandwitch= 0
+Cost of Meal= 90.0
+Sevice Tax= 0.9090909090909091
+Pay Tax= 18.0
+Total= 108.9090909090909
+
+
+
+Cost of Drinks= 325.0
+Cost of Fries= 280.0
+Cost of Noodles= 180.0
+Cost of Soup= 560.0
+Cost of Burger= 780.0
+Cost of Sandwitch= 300.0
+Cost of Meal= 2125.0
+Sevice Tax= 21.464646464646464
+Pay Tax= 425.0
+Total= 2571.4646464646466
+
+
+
+Cost of Drinks= 195.0
+Cost of Fries= 140.0
+Cost of Noodles= 180.0
+Cost of Soup= 280.0
+Cost of Burger= 260.0
+Cost of Sandwitch= 1200.0
+Cost of Meal= 1055.0
+Sevice Tax= 10.656565656565656
+Pay Tax= 211.0
+Total= 1276.6565656565656
+
+
+
+Cost of Drinks= 65.0
+Cost of Fries= 140.0
+Cost of Noodles= 90.0
+Cost of Soup= 140.0
+Cost of Burger= 260.0
+Cost of Sandwitch= 300.0
+Cost of Meal= 695.0
+Sevice Tax= 7.02020202020202
+Pay Tax= 139.0
+Total= 841.0202020202021
+
+
+
